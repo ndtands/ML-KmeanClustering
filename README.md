@@ -14,7 +14,8 @@ Can't not cluster for data set complex
 <p align="center" width="100%">
     <img width="50%" src="defect2.PNG"> 
 </p>
-## ?How to find the suitable K
+</br>
+## How to find the suitable K ??
 </br>
 ### You can using  Elbow method
 <p align="center" width="100%">
