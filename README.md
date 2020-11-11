@@ -17,6 +17,6 @@ Can't not cluster for data set complex
 ## ?How to find the suitable K
 ### You can using  Elbow method
 <p align="center" width="100%">
-    <img width="50%" src="Elbow-method.PNG"> 
+    <img width="50%" src="Elbow-method.png"> 
 </p>
 Choose K = 3 
